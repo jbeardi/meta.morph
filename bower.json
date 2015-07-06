@@ -1,0 +1,19 @@
+{
+  "name" : "framework",
+  "title": "meta.morph App Framework",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bjoernmuenchau/meta.morph.git"
+  },
+
+  "dependencies": {
+    "backbone" : "~> 1.0.0",
+    "json2":"",
+    "klass":"",
+    "underscore": "~> 1.5.1"
+  },
+
+  "devDependencies": {
+    "jquery": "1.7.2"
+  }
+}

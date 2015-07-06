@@ -1,0 +1,13 @@
+{
+  "name": "klass",
+  "homepage": "https://github.com/ded/klass",
+  "_release": "master",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c33b3c8114e4243c63619772b156f480d0d8af28"
+  },
+  "_source": "git://github.com/ded/klass.git",
+  "_target": "*",
+  "_originalSource": "klass"
+}
